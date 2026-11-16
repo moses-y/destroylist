@@ -1,8 +1,8 @@
 {
  "date": "2026-11-15",
  "period_start": "2026-11-15T00:00:00+00:00",
- "period_end": "2026-11-15T14:23:36.877415+00:00",
- "complete": false,
+ "period_end": "2026-11-16T00:00:00+00:00",
+ "complete": true,
  "primary_added": [],
  "primary_removed": [],
  "primary_count": 238544,
