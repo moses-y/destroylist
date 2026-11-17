@@ -6,11 +6,11 @@
   "providers": {
     "multi_tenant_hosting": {
       "total_domains": 58,
-      "total_entries": 172398,
+      "total_entries": 172419,
       "items": [
         {
           "domain": "pages.dev",
-          "count": 94634,
+          "count": 94653,
           "hosts": [
             "00-e8k.pages.dev",
             "00000000000000000000000.pages.dev",
@@ -542,6 +542,7 @@
             "1-voting-torchpad.pages.dev",
             "1-voting.pages.dev",
             "1-vws.pages.dev",
+            "1-wlfi-allocations.pages.dev",
             "1-xstocks-allocation.pages.dev",
             "1-zamagov.pages.dev",
             "1-zamaprotocol.pages.dev",
@@ -8426,6 +8427,7 @@
             "422-curvefi.pages.dev",
             "422-lists-okxvotes.pages.dev",
             "422-reallocate-flare.pages.dev",
+            "4221-proposal.pages.dev",
             "423-curvefi.pages.dev",
             "423-lists-okxvotes.pages.dev",
             "423-reallocate-flare.pages.dev",
@@ -12243,6 +12245,7 @@
             "87-arcusgovernance.pages.dev",
             "87-curvefi.pages.dev",
             "87-derivexyz.pages.dev",
+            "87-gliderfi.pages.dev",
             "87-governance-curvefinance.pages.dev",
             "87-governance-jumperapp.pages.dev",
             "87-governance-venice.pages.dev",
@@ -88713,6 +88716,7 @@
             "vote-fablesfi.pages.dev",
             "vote-fluidio.pages.dev",
             "vote-fobofun.pages.dev",
+            "vote-fun-b8v.pages.dev",
             "vote-gaibai.pages.dev",
             "vote-giza-com.pages.dev",
             "vote-giza-net.pages.dev",
@@ -88904,6 +88908,7 @@
             "vote-okxpolls-927.pages.dev",
             "vote-okxpolls-938.pages.dev",
             "vote-okxpolls-947.pages.dev",
+            "vote-okxpolls-955.pages.dev",
             "vote-okxpolls-971.pages.dev",
             "vote-okxpolls-972.pages.dev",
             "vote-okxpolls-979.pages.dev",
@@ -92313,6 +92318,20 @@
             "wins-bam.pages.dev",
             "winter-degods.pages.dev",
             "winter-seal.pages.dev",
+            "winter-summit-secure-user-0b5d-3f50.pages.dev",
+            "winter-summit-secure-user-0b5d-5da7.pages.dev",
+            "winter-summit-secure-user-0b5d-6324.pages.dev",
+            "winter-summit-secure-user-0b5d-63aa.pages.dev",
+            "winter-summit-secure-user-0b5d-8316.pages.dev",
+            "winter-summit-secure-user-0b5d-881d.pages.dev",
+            "winter-summit-secure-user-0b5d-bb45.pages.dev",
+            "winter-summit-secure-user-0b5d-c453.pages.dev",
+            "winter-summit-secure-user-2403-33ab.pages.dev",
+            "winter-summit-secure-user-2403-6067.pages.dev",
+            "winter-summit-secure-user-2403-6304.pages.dev",
+            "winter-summit-secure-user-2403-8f31.pages.dev",
+            "winter-summit-secure-user-2403-92d7.pages.dev",
+            "winter-summit-secure-user-2403-deea.pages.dev",
             "winter-summit-treasure-9357.pages.dev",
             "winterarcsolxyz.pages.dev",
             "winzio.pages.dev",
@@ -116683,7 +116702,7 @@
         },
         {
           "domain": "netlify.app",
-          "count": 12871,
+          "count": 12872,
           "hosts": [
             "0.netlify.app",
             "0g-foundiation-claim.netlify.app",
@@ -121460,6 +121479,7 @@
             "keungz-christmas-gift.netlify.app",
             "keyspeed-items.netlify.app",
             "khangcaovipham.netlify.app",
+            "kinetiq-hyperliquid.netlify.app",
             "kingspl-20-0slcn.netlify.app",
             "kingspl-20-0wmck.netlify.app",
             "kingspl-20-f583x.netlify.app",
@@ -167808,7 +167828,7 @@
         },
         {
           "domain": "edgeone.dev",
-          "count": 648,
+          "count": 649,
           "hosts": [
             "09j876543a2s4rty-tiiwjptkpk.edgeone.dev",
             "0g7w1aygwrtgdiv-5wx0w5xe7p.edgeone.dev",
@@ -167881,6 +167901,7 @@
             "blcresolver-3a52ykcyu8.edgeone.dev",
             "blcsolver-p7a3cxmitw.edgeone.dev",
             "blcsolver-zoiw40ae5j.edgeone.dev",
+            "blkcresolver-dpb62hagpg9c.edgeone.dev",
             "blkhubsolver-lju2ar06yz.edgeone.dev",
             "bloody-tan-m0kinkme-dpyxfj86137p.edgeone.dev",
             "bloody-yellow-eq2nlz0a-dpltg5j6exxj.edgeone.dev",
@@ -172758,11 +172779,11 @@
     },
     "site_builders": {
       "total_domains": 39,
-      "total_entries": 71268,
+      "total_entries": 71269,
       "items": [
         {
           "domain": "gitbook.io",
-          "count": 22302,
+          "count": 22303,
           "hosts": [
             "0365-microsoft.gitbook.io",
             "0pensea.gitbook.io",
@@ -185897,6 +185918,7 @@
             "metamaskloghin.gitbook.io",
             "metamaskloghno.gitbook.io",
             "metamasklogib.gitbook.io",
+            "metamasklogibg.gitbook.io",
             "metamasklogic.gitbook.io",
             "metamasklogiene.gitbook.io",
             "metamasklogiggn.gitbook.io",
@@ -244266,7 +244288,7 @@
     },
     "decentralized_storage": {
       "total_domains": 8,
-      "total_entries": 2117,
+      "total_entries": 2119,
       "items": [
         {
           "domain": "dweb.link",
@@ -245271,7 +245293,7 @@
         },
         {
           "domain": "arweave.net",
-          "count": 532,
+          "count": 534,
           "hosts": [
             "23ggzlelrrcqusmukgx35egkid5n63az54pctu72x6p37wmco4oa.arweave.net",
             "24pyr7fqjdl7fsfphllhtz4fcbl52m2kvw5mnxllrf5mstgl47ta.arweave.net",
@@ -245508,6 +245530,7 @@
             "h7qzzhfa4tr6qtk2d6dixt3a7blyeb2cg5w6izo7goyp4e3r7vza.arweave.net",
             "hai3x7dhi5h4iko7ycvtgdgmluh5i3uc5a4fkrjh7n5awb57jmoa.arweave.net",
             "hcvuvezuhjrjmmzv3fu3d4wi7ql2xt3s7vju2xlufv6jz2wgbqla.arweave.net",
+            "hda2wlq6wpg6qv644ilwp2onw6443n5eh7dsd2iswnaxydqu6fqa.arweave.net",
             "hkfitgtspkjuijhrqqw4enw24z4v27mk475ulaak4zdimiclbqna.arweave.net",
             "hkqaermjrwih4u6ztr6edcojgqj5abco2sfosvucdivdmnlf4gna.arweave.net",
             "hsbfgwl2uu2og37pscac42fzfibel2pjgylvrfvt7jhgbdo372ma.arweave.net",
@@ -245548,6 +245571,7 @@
             "jnf77jgijrjqxa7mhevddvqnehpegm7dqubs5crzeeluxxozhzfa.arweave.net",
             "jr2lhe3gibutjil6lzkjqepva47btwg7sd5w2tsbvd3qucrymwiq.arweave.net",
             "jr2zpmxb6z55sng2zly6uscfp63c25b263o6moa4rvcnkqkl3cja.arweave.net",
+            "jrnhbo2re4342lv437tbw7252tttsasfm26ibplokladehdrporq.arweave.net",
             "jrrm7lh6znagwwoskulwnymzwwjvezw4fhnpyjkstcgtdxegognq.arweave.net",
             "jsijhyg7kgbsenvkm2tqfaptgr673meydoty3vbbrvkvwvi7afma.arweave.net",
             "juxic63hfmqggrfy7ehwbyhujfo4ljd2v5vcx7jsadxt7choqhea.arweave.net",
