@@ -1,4 +1,4 @@
-# Destroylist - Community | hosts | 1,185,090 domains | 2026-11-18 20:04 UTC
+# Destroylist - Community | hosts | 1,185,102 domains | 2026-11-18 22:42 UTC
 # https://github.com/phishdestroy/destroylist
 
 0.0.0.0 0-0.coinbase-com.info
@@ -55488,6 +55488,7 @@
 0.0.0.0 aevilop.github.io
 0.0.0.0 aevitas-drifters.app
 0.0.0.0 aevitasbk.com
+0.0.0.0 aevntrax.cn
 0.0.0.0 aevo--sushi.xyz
 0.0.0.0 aevo-26k.pages.dev
 0.0.0.0 aevo-4el.pages.dev
@@ -542850,6 +542851,7 @@
 0.0.0.0 kinetiqfoundations.xyz
 0.0.0.0 kinetiqgenesis.pages.dev
 0.0.0.0 kinetiqgenesis.site
+0.0.0.0 kinetiqgenesis2.pages.dev
 0.0.0.0 kinetiqgenesis2.top
 0.0.0.0 kinetiqgov.icu
 0.0.0.0 kinetiqgov.pages.dev
@@ -626571,6 +626573,7 @@
 0.0.0.0 metaamaskklouginn.gitbook.io
 0.0.0.0 metaamaskklugennn.godaddysites.com
 0.0.0.0 metaamaskksloginn.gitbook.io
+0.0.0.0 metaamaskkslogoginn.gitbook.io
 0.0.0.0 metaamasklgoin.webflow.io
 0.0.0.0 metaamaskliwakket.gitbook.io
 0.0.0.0 metaamaskllogiin.gitbook.io
@@ -631892,6 +631895,7 @@
 0.0.0.0 metamask-wallett-accounttv.gitbook.io
 0.0.0.0 metamask-wallett-io.webflow.io
 0.0.0.0 metamask-wallett-logint.gitbook.io
+0.0.0.0 metamask-wallett.blogspot.cl
 0.0.0.0 metamask-wallett.blogspot.com
 0.0.0.0 metamask-wallett.blogspot.com.uy
 0.0.0.0 metamask-wallett.com
@@ -633737,6 +633741,9 @@
 0.0.0.0 metamaskchrm-extensions.webflow.io
 0.0.0.0 metamaskchrmbrwsr.gitbook.io
 0.0.0.0 metamaskchrme-extension.gitbook.io
+0.0.0.0 metamaskchrme.blogspot.com
+0.0.0.0 metamaskchrme.blogspot.de
+0.0.0.0 metamaskchrme.blogspot.it
 0.0.0.0 metamaskchrmeextensin.webflow.io
 0.0.0.0 metamaskchrmeextension-auth.gitbook.io
 0.0.0.0 metamaskchrmeextenssion.gitbook.io
@@ -771895,6 +771902,7 @@
 0.0.0.0 polysly.com
 0.0.0.0 polysmarket.com
 0.0.0.0 polysmarket.info
+0.0.0.0 polysmarkets.com
 0.0.0.0 polysmartbot.xyz
 0.0.0.0 polysnipe.app
 0.0.0.0 polysniper.fun
@@ -860987,6 +860995,7 @@
 0.0.0.0 santander-coinbasellc.com.ph
 0.0.0.0 santander-coinbasellc.ph
 0.0.0.0 santander-comprovante-fr8kq2lm7xv9pqa4nx.duckdns.org
+0.0.0.0 santander-comprovante-r7kqtg9ycnkpzgxvzk.duckdns.org
 0.0.0.0 santander-confirm-user-auth.com
 0.0.0.0 santander-connectchat.com
 0.0.0.0 santander-conta.com
@@ -875627,6 +875636,7 @@
 0.0.0.0 send-usdt-099.netlify.app
 0.0.0.0 send-usdt-1-chi.vercel.app
 0.0.0.0 send-usdt-1.netlify.app
+0.0.0.0 send-usdt-12.vercel.app
 0.0.0.0 send-usdt-2.netlify.app
 0.0.0.0 send-usdt-33.netlify.app
 0.0.0.0 send-usdt-4.netlify.app
@@ -975469,6 +975479,7 @@
 0.0.0.0 team-trustwallet.live
 0.0.0.0 team-veda.xyz
 0.0.0.0 team-viewercom.top
+0.0.0.0 team-workspace.site
 0.0.0.0 team-wormhole.com
 0.0.0.0 team.asn.lv
 0.0.0.0 team.blanread.info
@@ -1021695,6 +1021706,7 @@
 0.0.0.0 twstg.net
 0.0.0.0 twsupportdesk.com
 0.0.0.0 twsupportteam.com
+0.0.0.0 twsupps.pages.dev
 0.0.0.0 twt-000210.surge.sh
 0.0.0.0 twt-56f8uapx.pages.dev
 0.0.0.0 twt-airdrop.claims

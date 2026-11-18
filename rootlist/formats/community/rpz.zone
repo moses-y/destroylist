@@ -1,7 +1,7 @@
-; Destroylist - Community | RPZ zone | 1,185,090 domains | 2026-11-18 20:04 UTC
+; Destroylist - Community | RPZ zone | 1,185,102 domains | 2026-11-18 22:42 UTC
 ; https://github.com/phishdestroy/destroylist
 $TTL 300
-@ SOA localhost. root.localhost. 202611182004 86400 7200 2592000 300
+@ SOA localhost. root.localhost. 202611182242 86400 7200 2592000 300
   NS  localhost.
 
 0-0.coinbase-com.info CNAME .
@@ -55491,6 +55491,7 @@ aeve.top CNAME .
 aevilop.github.io CNAME .
 aevitas-drifters.app CNAME .
 aevitasbk.com CNAME .
+aevntrax.cn CNAME .
 aevo--sushi.xyz CNAME .
 aevo-26k.pages.dev CNAME .
 aevo-4el.pages.dev CNAME .
@@ -542853,6 +542854,7 @@ kinetiqfoundation.xyz CNAME .
 kinetiqfoundations.xyz CNAME .
 kinetiqgenesis.pages.dev CNAME .
 kinetiqgenesis.site CNAME .
+kinetiqgenesis2.pages.dev CNAME .
 kinetiqgenesis2.top CNAME .
 kinetiqgov.icu CNAME .
 kinetiqgov.pages.dev CNAME .
@@ -626574,6 +626576,7 @@ metaamaskklougin.gitbook.io CNAME .
 metaamaskklouginn.gitbook.io CNAME .
 metaamaskklugennn.godaddysites.com CNAME .
 metaamaskksloginn.gitbook.io CNAME .
+metaamaskkslogoginn.gitbook.io CNAME .
 metaamasklgoin.webflow.io CNAME .
 metaamaskliwakket.gitbook.io CNAME .
 metaamaskllogiin.gitbook.io CNAME .
@@ -631895,6 +631898,7 @@ metamask-walletsynfix-247.square.site CNAME .
 metamask-wallett-accounttv.gitbook.io CNAME .
 metamask-wallett-io.webflow.io CNAME .
 metamask-wallett-logint.gitbook.io CNAME .
+metamask-wallett.blogspot.cl CNAME .
 metamask-wallett.blogspot.com CNAME .
 metamask-wallett.blogspot.com.uy CNAME .
 metamask-wallett.com CNAME .
@@ -633740,6 +633744,9 @@ metamaskchrm-extension.webflow.io CNAME .
 metamaskchrm-extensions.webflow.io CNAME .
 metamaskchrmbrwsr.gitbook.io CNAME .
 metamaskchrme-extension.gitbook.io CNAME .
+metamaskchrme.blogspot.com CNAME .
+metamaskchrme.blogspot.de CNAME .
+metamaskchrme.blogspot.it CNAME .
 metamaskchrmeextensin.webflow.io CNAME .
 metamaskchrmeextension-auth.gitbook.io CNAME .
 metamaskchrmeextenssion.gitbook.io CNAME .
@@ -771898,6 +771905,7 @@ polysized.com CNAME .
 polysly.com CNAME .
 polysmarket.com CNAME .
 polysmarket.info CNAME .
+polysmarkets.com CNAME .
 polysmartbot.xyz CNAME .
 polysnipe.app CNAME .
 polysniper.fun CNAME .
@@ -860990,6 +860998,7 @@ santander-cliente.com CNAME .
 santander-coinbasellc.com.ph CNAME .
 santander-coinbasellc.ph CNAME .
 santander-comprovante-fr8kq2lm7xv9pqa4nx.duckdns.org CNAME .
+santander-comprovante-r7kqtg9ycnkpzgxvzk.duckdns.org CNAME .
 santander-confirm-user-auth.com CNAME .
 santander-connectchat.com CNAME .
 santander-conta.com CNAME .
@@ -875630,6 +875639,7 @@ send-usdt-09.vercel.app CNAME .
 send-usdt-099.netlify.app CNAME .
 send-usdt-1-chi.vercel.app CNAME .
 send-usdt-1.netlify.app CNAME .
+send-usdt-12.vercel.app CNAME .
 send-usdt-2.netlify.app CNAME .
 send-usdt-33.netlify.app CNAME .
 send-usdt-4.netlify.app CNAME .
@@ -975472,6 +975482,7 @@ team-trump.net CNAME .
 team-trustwallet.live CNAME .
 team-veda.xyz CNAME .
 team-viewercom.top CNAME .
+team-workspace.site CNAME .
 team-wormhole.com CNAME .
 team.asn.lv CNAME .
 team.blanread.info CNAME .
@@ -1021698,6 +1021709,7 @@ twsprocar.digital CNAME .
 twstg.net CNAME .
 twsupportdesk.com CNAME .
 twsupportteam.com CNAME .
+twsupps.pages.dev CNAME .
 twt-000210.surge.sh CNAME .
 twt-56f8uapx.pages.dev CNAME .
 twt-airdrop.claims CNAME .

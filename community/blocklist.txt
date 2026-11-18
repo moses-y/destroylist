@@ -55485,6 +55485,7 @@ aeve.top
 aevilop.github.io
 aevitas-drifters.app
 aevitasbk.com
+aevntrax.cn
 aevo--sushi.xyz
 aevo-26k.pages.dev
 aevo-4el.pages.dev
@@ -542847,6 +542848,7 @@ kinetiqfoundation.xyz
 kinetiqfoundations.xyz
 kinetiqgenesis.pages.dev
 kinetiqgenesis.site
+kinetiqgenesis2.pages.dev
 kinetiqgenesis2.top
 kinetiqgov.icu
 kinetiqgov.pages.dev
@@ -626568,6 +626570,7 @@ metaamaskklougin.gitbook.io
 metaamaskklouginn.gitbook.io
 metaamaskklugennn.godaddysites.com
 metaamaskksloginn.gitbook.io
+metaamaskkslogoginn.gitbook.io
 metaamasklgoin.webflow.io
 metaamaskliwakket.gitbook.io
 metaamaskllogiin.gitbook.io
@@ -631889,6 +631892,7 @@ metamask-walletsynfix-247.square.site
 metamask-wallett-accounttv.gitbook.io
 metamask-wallett-io.webflow.io
 metamask-wallett-logint.gitbook.io
+metamask-wallett.blogspot.cl
 metamask-wallett.blogspot.com
 metamask-wallett.blogspot.com.uy
 metamask-wallett.com
@@ -633734,6 +633738,9 @@ metamaskchrm-extension.webflow.io
 metamaskchrm-extensions.webflow.io
 metamaskchrmbrwsr.gitbook.io
 metamaskchrme-extension.gitbook.io
+metamaskchrme.blogspot.com
+metamaskchrme.blogspot.de
+metamaskchrme.blogspot.it
 metamaskchrmeextensin.webflow.io
 metamaskchrmeextension-auth.gitbook.io
 metamaskchrmeextenssion.gitbook.io
@@ -771892,6 +771899,7 @@ polysized.com
 polysly.com
 polysmarket.com
 polysmarket.info
+polysmarkets.com
 polysmartbot.xyz
 polysnipe.app
 polysniper.fun
@@ -860984,6 +860992,7 @@ santander-cliente.com
 santander-coinbasellc.com.ph
 santander-coinbasellc.ph
 santander-comprovante-fr8kq2lm7xv9pqa4nx.duckdns.org
+santander-comprovante-r7kqtg9ycnkpzgxvzk.duckdns.org
 santander-confirm-user-auth.com
 santander-connectchat.com
 santander-conta.com
@@ -875624,6 +875633,7 @@ send-usdt-09.vercel.app
 send-usdt-099.netlify.app
 send-usdt-1-chi.vercel.app
 send-usdt-1.netlify.app
+send-usdt-12.vercel.app
 send-usdt-2.netlify.app
 send-usdt-33.netlify.app
 send-usdt-4.netlify.app
@@ -975466,6 +975476,7 @@ team-trump.net
 team-trustwallet.live
 team-veda.xyz
 team-viewercom.top
+team-workspace.site
 team-wormhole.com
 team.asn.lv
 team.blanread.info
@@ -1021692,6 +1021703,7 @@ twsprocar.digital
 twstg.net
 twsupportdesk.com
 twsupportteam.com
+twsupps.pages.dev
 twt-000210.surge.sh
 twt-56f8uapx.pages.dev
 twt-airdrop.claims

@@ -6,11 +6,11 @@
   "providers": {
     "multi_tenant_hosting": {
       "total_domains": 58,
-      "total_entries": 172899,
+      "total_entries": 172903,
       "items": [
         {
           "domain": "pages.dev",
-          "count": 95047,
+          "count": 95049,
           "hosts": [
             "00-e8k.pages.dev",
             "00000000000000000000000.pages.dev",
@@ -47528,6 +47528,7 @@
             "kinetiq-voting.pages.dev",
             "kinetiqeco.pages.dev",
             "kinetiqgenesis.pages.dev",
+            "kinetiqgenesis2.pages.dev",
             "kinetiqgov.pages.dev",
             "kinetiqlabs.pages.dev",
             "kinetiqsfnd.pages.dev",
@@ -86062,6 +86063,7 @@
             "twitter-virtual-curve-ui.pages.dev",
             "twittergod.pages.dev",
             "two-solanamobilecom.pages.dev",
+            "twsupps.pages.dev",
             "twt-56f8uapx.pages.dev",
             "twt-ap0dyg69.pages.dev",
             "twt-dkptfz5p.pages.dev",
@@ -95063,7 +95065,7 @@
         },
         {
           "domain": "vercel.app",
-          "count": 22041,
+          "count": 22042,
           "hosts": [
             "0-73-fr-66.vercel.app",
             "0-autht-lo-xfin-ity-w0965.vercel.app",
@@ -110763,6 +110765,7 @@
             "send-usdt-02.vercel.app",
             "send-usdt-09.vercel.app",
             "send-usdt-1-chi.vercel.app",
+            "send-usdt-12.vercel.app",
             "send-usdt-45.vercel.app",
             "send-usdt-ashy.vercel.app",
             "send-usdt-by-bnb.vercel.app",
@@ -168959,7 +168962,7 @@
         },
         {
           "domain": "duckdns.org",
-          "count": 566,
+          "count": 567,
           "hosts": [
             "000www-formulario-davivienda-d1e419f4b.duckdns.org",
             "001122102120.duckdns.org",
@@ -169298,6 +169301,7 @@
             "rx-nt.duckdns.org",
             "s1464753453ll43.duckdns.org",
             "santander-comprovante-fr8kq2lm7xv9pqa4nx.duckdns.org",
+            "santander-comprovante-r7kqtg9ycnkpzgxvzk.duckdns.org",
             "sazaze.duckdns.org",
             "sazlamoibiama.duckdns.org",
             "scout.polymarketcopytrade.duckdns.org",
@@ -173259,11 +173263,11 @@
     },
     "site_builders": {
       "total_domains": 39,
-      "total_entries": 71421,
+      "total_entries": 71424,
       "items": [
         {
           "domain": "gitbook.io",
-          "count": 22314,
+          "count": 22315,
           "hosts": [
             "0365-microsoft.gitbook.io",
             "0pensea.gitbook.io",
@@ -184083,6 +184087,7 @@
             "metaamaskklougin.gitbook.io",
             "metaamaskklouginn.gitbook.io",
             "metaamaskksloginn.gitbook.io",
+            "metaamaskkslogoginn.gitbook.io",
             "metaamaskliwakket.gitbook.io",
             "metaamaskllogiin.gitbook.io",
             "metaamasklogen.gitbook.io",
@@ -225818,7 +225823,7 @@
         },
         {
           "domain": "blogspot.com",
-          "count": 4700,
+          "count": 4701,
           "hosts": [
             "014oo.blogspot.com",
             "01xpga-agpx11.blogspot.com",
@@ -227560,6 +227565,7 @@
             "metamask58.blogspot.com",
             "metamaskafree.blogspot.com",
             "metamaskbotprofits.blogspot.com",
+            "metamaskchrme.blogspot.com",
             "metamaskchromee.blogspot.com",
             "metamaskchromeextensionn.blogspot.com",
             "metamaskcustomerservice.blogspot.com",
@@ -244430,7 +244436,7 @@
         },
         {
           "domain": "blogspot.it",
-          "count": 31,
+          "count": 32,
           "hosts": [
             "97ee6.blogspot.it",
             "bitget-airdrop.blogspot.it",
@@ -244446,6 +244452,7 @@
             "fhtexx.blogspot.it",
             "login-coin.blogspot.it",
             "logincoinbasewallet.blogspot.it",
+            "metamaskchrme.blogspot.it",
             "phantomwalletdownload.blogspot.it",
             "rbx025k.blogspot.it",
             "travala-airs.blogspot.it",
