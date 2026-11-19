@@ -4,8 +4,8 @@
 ! Homepage: https://github.com/phishdestroy/destroylist
 ! License: https://github.com/phishdestroy/destroylist/blob/main/LICENSE
 ! Expires: 1 day
-! Last modified: 2026-11-19 03:22 UTC
-! Version: 202611190322
+! Last modified: 2026-11-19 12:37 UTC
+! Version: 202611191237
 ! Total domains: 515,745
 ||0-0.coinbase-com.info^
 ||0-0.icu^
