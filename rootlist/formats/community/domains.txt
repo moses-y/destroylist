@@ -1,4 +1,4 @@
-# Destroylist - Community | plain | 1,188,794 domains | 2026-11-24 19:40 UTC
+# Destroylist - Community | plain | 1,188,794 domains | 2026-11-24 21:49 UTC
 # https://github.com/phishdestroy/destroylist
 
 0-0.coinbase-com.info

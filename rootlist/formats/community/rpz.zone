@@ -1,7 +1,7 @@
-; Destroylist - Community | RPZ zone | 1,188,794 domains | 2026-11-24 19:40 UTC
+; Destroylist - Community | RPZ zone | 1,188,794 domains | 2026-11-24 21:49 UTC
 ; https://github.com/phishdestroy/destroylist
 $TTL 300
-@ SOA localhost. root.localhost. 202611241940 86400 7200 2592000 300
+@ SOA localhost. root.localhost. 202611242149 86400 7200 2592000 300
   NS  localhost.
 
 0-0.coinbase-com.info CNAME .
