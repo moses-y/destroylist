@@ -1,4 +1,4 @@
-# Destroylist - Primary | plain | 238,544 domains | 2026-11-28 10:43 UTC
+# Destroylist - Primary | plain | 238,544 domains | 2026-11-28 12:51 UTC
 # https://github.com/phishdestroy/destroylist
 
 0-105.com
